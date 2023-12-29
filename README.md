@@ -1,4 +1,4 @@
 # html-demo
 This is a demo repository
 <br>
-Author - Akshad Khan
+Author - Akshad (KMCLU)
